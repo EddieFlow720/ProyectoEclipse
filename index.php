@@ -42,7 +42,7 @@
                 }
             } else {
                 header('Location: ' . BASE_URL . 'errors');
-                //
+                 
             }
         ?>
     </body>
