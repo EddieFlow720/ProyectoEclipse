@@ -203,7 +203,7 @@
         </section>
         <!-- End Featured Product -->
         <?php include_once 'Views/template-principal/footer.php'; ?>
-
+        <!-- Hola -->
     </body>
 
 </html>
